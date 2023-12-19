@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknutsdb=self.webpackChunknutsdb||[]).push([[413],{5873:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/nutsdb/blog/tags/hola","allTagsPath":"/nutsdb/blog/tags","count":1,"unlisted":false}')}}]);
