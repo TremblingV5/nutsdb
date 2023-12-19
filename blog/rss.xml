@@ -4,7 +4,7 @@
         <title>NutsDB Documents Blog</title>
         <link>https://nutsdb.github.io/nutsdb/blog</link>
         <description>NutsDB Documents Blog</description>
-        <lastBuildDate>Tue, 19 Dec 2023 13:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 13:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[temp]]></title>
             <link>https://nutsdb.github.io/nutsdb/blog/temp</link>
             <guid>https://nutsdb.github.io/nutsdb/blog/temp</guid>
-            <pubDate>Tue, 19 Dec 2023 13:21:11 GMT</pubDate>
+            <pubDate>Tue, 19 Dec 2023 13:22:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
